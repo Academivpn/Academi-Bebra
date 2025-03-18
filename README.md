@@ -12,7 +12,6 @@ Admin 2 : Amir | Mystic
 
 :red_circle: لینک دانلود برای تمامی سیستم عامل ها   :red_circle:
 
-   div align=left>
 <table>
     <thead align=left>
         <tr>
