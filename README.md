@@ -12,6 +12,8 @@ Admin 2 : Amir | Mystic
 
 :red_circle: لینک دانلود برای تمامی سیستم عامل ها   :red_circle:
 
+## 📥 Download 
+
 <table>
     <thead align=left>
         <tr>
