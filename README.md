@@ -1,4 +1,5 @@
-# Academi-Bebra
+![IMG_20250318_154248_974](https://github.com/user-attachments/assets/f6caa4ce-4fa4-4269-8b46-e675bfea40c5)
+
 
 
 [Telegram Channel](https://t.me/Academi_vpn)
