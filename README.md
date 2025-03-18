@@ -36,7 +36,7 @@ Admin 2 : Amir | Mystic
         <tr>
             <td>Windows</td>
             <td>
-                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.exe"><img src="https://img.shields.io/badge/Bebra-Amazon-C71585.svg?logo=exe"></a><br>               
+                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.exe"><img src="https://img.shields.io/badge/Bebra-Amazon-C71585.svg?logo=Windows"></a><br>               
             </td>
         </tr>
         <tr>
