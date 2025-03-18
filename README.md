@@ -36,7 +36,7 @@ Admin 2 : Amir | Mystic
         <tr>
             <td>Windows</td>
             <td>
-                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.exe"><img src="https://img.shields.io/badge/Bebra-Amazon-C71585.svg?logo=Windows"></a><br>               
+                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.exe"><img src="https://img.shields.io/badge/Bebra-Exe-C71585.svg?logo=Amazon"></a><br>               
             </td>
         </tr>
         <tr>
@@ -48,7 +48,7 @@ Admin 2 : Amir | Mystic
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.AppImage"><img src="https://img.shields.io/badge/Bebra-Amazon-0000CD.svg?logo=linux"> </a><br>                
+                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.AppImage"><img src="https://img.shields.io/badge/Bebra-Appleimage-0000CD.svg?logo=linux"> </a><br>                
             </td>
         </tr>
     </tbody>
