@@ -50,7 +50,7 @@ Admin 2 : Amir | Mystic
         <tr>
             <td>Linux</td>
             <td>
-                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.AppImage"><img src="https://img.shields.io/badge/Bebra-AppImage-0000CD.svg?logo=linux"> </a><br>                
+                <a href="https://amazonvpn.s3.amazonaws.com/Bebra.AppImage"><img src="https://img.shields.io/badge/Bebra-AppImage-0000CD.svg?logo=Gitforwindows"> </a><br>                
             </td>
         </tr>
     </tbody>
